@@ -1,4 +1,4 @@
-# LUNG-CANCER-PREDICTOR🫁 AI-Powered Lung Cancer Risk Prediction & Lifestyle Recommendation System Top 30 Finalist – Electrothon, Chennai Institute of Technology (2025)
+# LUNG-CANCER-PREDICTOR🫁 AI-Powered Lung Cancer Risk Prediction & Lifestyle Recommendation System 
 
 An AI-powered tool for early lung cancer risk detection with personalized lifestyle suggestions using RAG (Retrieval-Augmented Generation).
 
